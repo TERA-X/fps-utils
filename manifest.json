@@ -1,15 +1,15 @@
 {
     "files": {
+        "module.json": "8c064aea552d2b51fd3efe769137bb97102886adf78b9c300df44a5a7482cfdc",
+        "package.json": "cfce7f8421833b9d63eef6f93ca3efb48ec5f4c8dc82345c77708e596ff9aa1c",
         "README.md": "8c89fbefc91e4e75ee5981cf2f59834ae9f231c5179e150aaa0c2bedeaf79e37",
+        "lib/index.js": "0301e4b55e0d8c542427a1d4ec665fb4c6ad72342ed5afe89fa89de2f8d83413",
+        "lib/setting_migration.js": "1821fbb5ed37672bd9a8daa54f8ab392e35aa6c38b1602c560865b3bf6a7c6a2",
         "lib/data/abnormalities.json": "54727de2123584eb0ff38ffca5e86601e3faf05e8dc3379c9a0fd6e5ede1ca0c",
         "lib/data/miscData.json": "4f36b0f6c847ddde5a1a35acf944f700f3e47e39ca23e58cbf06233af67ad251",
         "lib/data/npcData.json": "57c6e0ca4d6e996eb295868cf964c61322182c8df68c9787528a20c617bf356a",
         "lib/data/skillString.json": "90f7cf9e29f0c143ffe4650bebe85c097371507a23c9fd2a0ab6c877d5451e58",
-        "lib/data/userSpawns.json": "50fa11179c14e3d5ff0f92d73f62f968331258e85e534102cde03dd6ad977463",
-        "lib/index.js": "0301E4B55E0D8C542427A1D4EC665FB4C6AD72342ED5AFE89FA89DE2F8D83413",
-        "lib/setting_migration.js": "1821fbb5ed37672bd9a8daa54f8ab392e35aa6c38b1602c560865b3bf6a7c6a2",
-        "module.json": "2e820ee23fa3d5f353911901b6d76132b96d4d8993e2bbb14ba135fc90dcb8c0",
-        "package.json": "cfce7f8421833b9d63eef6f93ca3efb48ec5f4c8dc82345c77708e596ff9aa1c"
+        "lib/data/userSpawns.json": "50fa11179c14e3d5ff0f92d73f62f968331258e85e534102cde03dd6ad977463"
     },
     "defs": {
         "C_CONFIRM_UPDATE_NOTIFICATION": "raw",
